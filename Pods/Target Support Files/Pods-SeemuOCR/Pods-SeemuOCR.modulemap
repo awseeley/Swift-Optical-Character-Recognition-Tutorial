@@ -1,0 +1,6 @@
+framework module Pods_SeemuOCR {
+  umbrella header "Pods-SeemuOCR-umbrella.h"
+
+  export *
+  module * { export * }
+}
